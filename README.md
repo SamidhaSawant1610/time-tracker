@@ -1,5 +1,5 @@
 # Time Tracker
-
+Hello
 Java (Maven) application for tracking time on the job
 
 ## Purpose
